@@ -1,4 +1,4 @@
-FROM almalinux:9
+FROM almalinux:9 as clueliss/almalinux-systemd:9
 
 ENV container=docker
 
